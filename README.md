@@ -1,6 +1,6 @@
 # Escalonador
 
-### FCFS (First Come FirstServed).
+### FCFS (First Come First Served).
 A implementação deste algoritmo é bastante simples: basta uma fila simples para 
 gerenciar os processos. Uma vez que o processo ganhe o uso da CPU, aguarda-se seu 
 término para pegar o próximo da fila.
